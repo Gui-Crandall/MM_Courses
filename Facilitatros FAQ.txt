@@ -1,0 +1,39 @@
+Contents
+Students Questions	2
+Managing Leadership Course Specifics	4
+
+
+
+Students Questions
+1. Student is having trouble with Moodle, Office, or any other IT problem.
+If students need help with Moodle they should contact Crandall’s ITS email support at moodle.help@crandallu.ca 
+In case they’re having technical problems they should contact its.support@crandallu.ca 
+
+
+Facilitator’s General Questions
+1. When should I open the Group self-selection activity (usually called “Join a group here”)?
+It’s up to the facilitator when to open this activity. We recommend opening it as soon as the respective assignment is explained.
+It’s another best practice to have it closed prior to the assignment due date as many students fail to join groups and adjustments to the groups might be necessary.
+
+2. Do I need to change release dates for lessons, checklist, etc. for each week?
+There’s no need to set up release dates for activities inside a Week Topic as those activities will inherit the restriction you added to the topic itself.
+You can refer to the Checklist document to confirm what needs to be set up.
+
+3. I’m trying to edit the topics but there is no three dots to pull out the edit menu.
+Make sure you’re not inside a topic but in the main course page. Refer to all steps in the Facilitator Start Kit Tutorial.
+
+4. Should I record my session?
+Recording a session is optional. If you decide to do so, once you close your BBB room it will automatically be uploaded in Moodle under the eClass activity in Moodle,
+
+5. Do I need students' consent to record my class?
+No, there’s no need for student consent. 
+
+6. How to get my textbook?
+You should be talking to Donald N. Ibe <Donald.Ibe@crandallu.ca> as Graduate Studies manages the administrative side of the program.
+
+
+
+
+Managing Leadership Course Specifics
+1. What date should I use in the “Group Presentation” assignment?
+We advise you to use the last date of the assignment to make sure all students can make their submission.
